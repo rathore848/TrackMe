@@ -1,0 +1,27 @@
+
+h1 {
+    color: black;
+    background-color: red;
+    border: 1px solid greenyellow;
+    font-size: 40px;
+}
+
+p {
+    color: blue;
+    font-size: 20px;
+}
+
+p2 {
+    color: blueviolet;
+    font-size: 20px;
+}
+
+p3 {
+    color: green;
+    font-size: 20px;
+}
+
+p4 {
+    color: orchid;
+    font-size: 20px;
+}
